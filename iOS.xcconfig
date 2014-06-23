@@ -1,0 +1,11 @@
+//
+//  iOS.xcconfig
+//
+//  Created by Sebastian Celis on 6/21/14.
+//  Copyright (c) 2014 Sebastian Celis. All rights reserved.
+//
+
+SDKROOT = iphoneos
+IPHONEOS_DEPLOYMENT_TARGET = 8.0
+TARGETED_DEVICE_FAMILY = 1,2
+ARCHS = $(ARCHS_STANDARD_INCLUDING_64_BIT)
