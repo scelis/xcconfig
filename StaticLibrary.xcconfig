@@ -1,0 +1,14 @@
+//
+//  StaticLibrary.xcconfig
+//  PatientIO
+//
+//  Created by Sebastian Celis on 8/8/14.
+//  Copyright (c) 2014 Filament Labs. All rights reserved.
+//
+
+COPY_PHASE_STRIP = NO
+DEAD_CODE_STRIPPING = NO
+ONLY_ACTIVE_ARCH = NO
+PUBLIC_HEADERS_FOLDER_PATH = $(PROJECT_NAME)Headers
+SKIP_INSTALL = YES
+STRIP_STYLE = non-global

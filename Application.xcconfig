@@ -1,0 +1,9 @@
+//
+//  Application.xcconfig
+//  PatientIO
+//
+//  Created by Sebastian Celis on 8/8/14.
+//  Copyright (c) 2014 Filament Labs. All rights reserved.
+//
+
+OTHER_LDFLAGS_APPLICATION = -all_load
