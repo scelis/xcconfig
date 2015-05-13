@@ -5,8 +5,9 @@
 //  Copyright (c) 2014 Sebastian Celis. All rights reserved.
 //
 
+#include "Base.xcconfig"
+
 SDKROOT = iphoneos
-IPHONEOS_DEPLOYMENT_TARGET = 8.0
 TARGETED_DEVICE_FAMILY = 1,2
 ARCHS = $(ARCHS_STANDARD)
 LD_RUNPATH_SEARCH_PATHS_PLATFORM = @executable_path/Frameworks

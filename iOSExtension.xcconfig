@@ -1,12 +1,12 @@
 //
-//  Extension.xcconfig
-//  PatientIO
+//  iOSExtension.xcconfig
 //
 //  Created by Sebastian Celis on 11/3/14.
 //  Copyright (c) 2014 Filament Labs, Inc. All rights reserved.
 //
 
-IPHONEOS_DEPLOYMENT_TARGET = 8.0
+#include "iOS.xcconfig"
+
 APPLICATION_EXTENSION_API_ONLY = YES
 SKIP_INSTALL = YES
 GENERATE_PKGINFO_FILE = NO
