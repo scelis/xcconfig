@@ -1,9 +1,11 @@
 //
-//  Tests.xcconfig
+//  iOSTests.xcconfig
 //
 //  Created by Sebastian Celis on 6/21/14.
 //  Copyright (c) 2014 Sebastian Celis. All rights reserved.
 //
+
+#include "iOS.xcconfig"
 
 FRAMEWORK_SEARCH_PATHS_TESTS = $(SDKROOT)/Developer/Library/Frameworks $(DEVELOPER_FRAMEWORKS_DIR)
 HEADER_SEARCH_PATHS_TESTS = /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
