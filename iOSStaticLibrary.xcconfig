@@ -2,7 +2,7 @@
 //  iOSStaticLibrary.xcconfig
 //
 //  Created by Sebastian Celis on 8/8/14.
-//  Copyright (c) 2014 Filament Labs. All rights reserved.
+//  Copyright (c) 2014 Sebastian Celis. All rights reserved.
 //
 
 #include "iOS.xcconfig"
