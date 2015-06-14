@@ -1,0 +1,11 @@
+//
+//  iOSUITests.xcconfig
+//
+//  Created by Sebastian Celis on 6/12/15.
+//  Copyright © 2015 Sebastian Celis. All rights reserved.
+//
+
+#include "iOS.xcconfig"
+
+LD_RUNPATH_SEARCH_PATHS_TESTS = @loader_path/Frameworks
+USES_XCTRUNNER = YES
