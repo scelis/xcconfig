@@ -1,0 +1,12 @@
+//
+//  tvOS.xcconfig
+//
+//  Created by Pete Walters on 1/27/16.
+//  Copyright (c) 2016 Peter Walters. All rights reserved.
+//
+
+#include "Base.xcconfig"
+
+LD_RUNPATH_SEARCH_PATHS_PLATFORM = @executable_path/Frameworks
+SDKROOT = appletvos
+TARGETED_DEVICE_FAMILY = 3
