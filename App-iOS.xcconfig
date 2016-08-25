@@ -1,13 +1,11 @@
 //
-//  iOSWatchApp.xcconfig
+//  App-iOS.xcconfig
 //
 //  Created by Sebastian Celis on 5/12/15.
 //  Copyright (c) 2015 Sebastian Celis. All rights reserved.
 //
 
-#include "iOS.xcconfig"
+#include "OS-iOS.xcconfig"
+#include "App.xcconfig"
 
-SKIP_INSTALL = YES
-TARGETED_DEVICE_FAMILY = 4
-TARGETED_DEVICE_FAMILY[sdk=iphonesimulator*] = 1,4
 GCC_SYMBOLS_PRIVATE_EXTERN_RELEASE = YES

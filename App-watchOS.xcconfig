@@ -1,10 +1,12 @@
 //
-//  iOSApp.xcconfig
+//  App-watchOS.xcconfig
 //
 //  Created by Sebastian Celis on 5/12/15.
 //  Copyright (c) 2015 Sebastian Celis. All rights reserved.
 //
 
-#include "iOS.xcconfig"
+#include "OS-watchOS.xcconfig"
+#include "App.xcconfig"
 
 GCC_SYMBOLS_PRIVATE_EXTERN_RELEASE = YES
+SKIP_INSTALL = YES

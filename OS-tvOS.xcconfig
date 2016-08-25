@@ -1,0 +1,15 @@
+//
+//  OS-tvOS.xcconfig
+//
+//  Created by Pete Walters on 1/27/16.
+//  Copyright (c) 2016 Peter Walters. All rights reserved.
+//
+
+#include "OS.xcconfig"
+
+SDKROOT = appletvos
+IPHONEOS_DEPLOYMENT_TARGET = 9.2
+TARGETED_DEVICE_FAMILY = 3
+LD_RUNPATH_SEARCH_PATHS_PLATFORM = @executable_path/Frameworks
+ENABLE_BITCODE = YES
+BITCODE_GENERATION_MODE = bitcode

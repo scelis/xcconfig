@@ -1,0 +1,9 @@
+//
+//  Framework-iOS.xcconfig
+//
+//  Created by Sebastian Celis on 7/14/16.
+//  Copyright (c) 2016 Sebastian Celis. All rights reserved.
+//
+
+#include "OS-watchOS.xcconfig"
+#include "Framework.xcconfig"

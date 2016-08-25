@@ -1,13 +1,15 @@
 //
-//  iOS.xcconfig
+//  OS-iOS.xcconfig
 //
 //  Created by Sebastian Celis on 6/21/14.
 //  Copyright (c) 2014 Sebastian Celis. All rights reserved.
 //
 
-#include "Base.xcconfig"
+#include "OS.xcconfig"
 
 SDKROOT = iphoneos
+IPHONEOS_DEPLOYMENT_TARGET = 10.0
 TARGETED_DEVICE_FAMILY = 1,2
 ARCHS = $(ARCHS_STANDARD)
 LD_RUNPATH_SEARCH_PATHS_PLATFORM = @executable_path/Frameworks
+ENABLE_BITCODE = NO

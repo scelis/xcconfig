@@ -1,9 +1,9 @@
 //
-//  tvOSFramework.xcconfig
+//  Framework-tvOS.xcconfig
 //
 //  Created by Pete Walters on 1/27/16.
 //  Copyright (c) 2016 Peter Walters. All rights reserved.
 //
 
-#include "tvOS.xcconfig"
+#include "OS-tvOS.xcconfig"
 #include "Framework.xcconfig"

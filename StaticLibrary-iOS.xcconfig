@@ -1,0 +1,9 @@
+//
+//  StaticLibrary-iOS.xcconfig
+//
+//  Created by Sebastian Celis on 8/8/14.
+//  Copyright (c) 2014 Sebastian Celis. All rights reserved.
+//
+
+#include "OS-iOS.xcconfig"
+#include "StaticLibrary.xcconfig"

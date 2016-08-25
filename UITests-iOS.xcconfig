@@ -1,0 +1,9 @@
+//
+//  UITests-iOS.xcconfig
+//
+//  Created by Sebastian Celis on 6/12/15.
+//  Copyright © 2015 Sebastian Celis. All rights reserved.
+//
+
+#include "OS-iOS.xcconfig"
+#include "UITests.xcconfig"

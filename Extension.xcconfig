@@ -1,0 +1,12 @@
+//
+//  Extension.xcconfig
+//
+//  Created by Sebastian Celis on 7/13/16.
+//  Copyright (c) 2016 Sebastian Celis. All rights reserved.
+//
+
+APPLICATION_EXTENSION_API_ONLY = YES
+GENERATE_PKGINFO_FILE = NO
+GCC_PRECOMPILE_PREFIX_HEADER = NO
+GCC_SYMBOLS_PRIVATE_EXTERN = NO
+SKIP_INSTALL = YES
