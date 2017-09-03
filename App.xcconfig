@@ -4,3 +4,5 @@
 //  Created by Sebastian Celis on 7/13/16.
 //  Copyright (c) 2015 Sebastian Celis. All rights reserved.
 //
+
+CODE_SIGN_STYLE = Automatic
